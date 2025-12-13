@@ -8,8 +8,7 @@ I'm a **Software Engineering Student** at King Fahd University of Petroleum and 
 
 💼 Former **Software Engineering Intern at Halliburton** (Singapore), where I developed ML-powered tools and PySide6 GUIs for industrial applications.
 
-🎯 Project Manager at **WNDR Group**, leading agile game development workflows and cross-functional teams.
-
+🎯 Former Project Manager at **WNDR Group** (ended July 2025), leading agile game development workflows and cross-functional teams.
 📍 Based in Saudi Arabia | Open to collaboration on innovative web & AI projects
 
 ---
@@ -44,10 +43,10 @@ I'm a **Software Engineering Student** at King Fahd University of Petroleum and 
 
 ## 🔬 Featured Projects
 
-### 🏢 [Rukn](https://github.com/MGHANO/rukn) - AI-Powered Real Estate Platform
+### 🏢 [Rukn](https://www.rukn.estate/) - AI-Powered Real Estate Platform
+
 **Senior Project | Full-Stack Development**  
 Built with Next.js, TypeScript, Tailwind CSS, and AI models (OpenRouter). Rukn helps entrepreneurs in Saudi Arabia find optimal marketplace locations using data-driven insights and intelligent recommendations.
-- 🤖 Integrated multiple AI models for location intelligence
 - 📊 Real-time data analytics and visualization
 - 🎨 Modern, responsive UI with seamless UX
 
